@@ -88,20 +88,20 @@ Buat program sederhana yang akan menampilkan daftar nilai
     • Commit dan push repository ke github.
 
 
-    • Gambar 1
+Gambar 1
 
-	![1.png](/gmbr2/1.png)
+![5.png](/gmbr1/5.png)
 
+Gambar 2
 
-    • Gambar 2
+![6.png](/gmbr1/6.png)
 
-	![2.png](/gmbr2/2.png)
+Hasil Output
 
-    • Hasil Output
+![7.png](/gmbr1/7.png)
 
-	![3.png](/gmbr2/3.png)
+![8.png](/gmbr1/8.png)
 
-	![4.png](/gmbr2/4.png)
 
 
 Code
